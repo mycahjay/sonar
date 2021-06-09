@@ -1,0 +1,6 @@
+.scannerwork
+.vscode
+config/*
+coverage
+node_modules
+yarn-error.log
